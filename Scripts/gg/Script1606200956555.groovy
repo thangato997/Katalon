@@ -17,3 +17,6 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.acceptAlert()
 
+if (true) {
+}
+

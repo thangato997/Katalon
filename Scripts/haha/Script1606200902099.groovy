@@ -17,3 +17,5 @@ import internal.GlobalVariable as GlobalVariable
 
 CucumberKW.comment('')
 
+WebUI.acceptAlert()
+
